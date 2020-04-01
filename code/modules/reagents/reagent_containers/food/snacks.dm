@@ -2781,7 +2781,7 @@
 /obj/item/reagent_containers/food/snacks/pisanggoreng
 	name = "pisang goreng"
 	gender = PLURAL
-	desc = "Crispy, starchy, sweet banana fritters. Popular street food in parts of Sol."
+	desc = "Crispy, starchy, sweet banana fritters. Popular street food in parts of Ohio."
 	icon_state = "pisanggoreng"
 	trash = /obj/item/trash/plate
 	filling_color = "#301301"
@@ -4665,7 +4665,7 @@
 
 /obj/item/reagent_containers/food/snacks/dip/salsa
 	name = "salsa dip"
-	desc = "Traditional Sol chunky salsa dip containing tomatos, peppers, and spices."
+	desc = "Traditional Ohio chunky salsa dip containing tomatos, peppers, and spices."
 	nachotrans = /obj/item/reagent_containers/food/snacks/chip/nacho/salsa
 	chiptrans = /obj/item/reagent_containers/food/snacks/chip/salsa
 	icon_state = "dip_salsa"
@@ -4674,7 +4674,7 @@
 
 /obj/item/reagent_containers/food/snacks/dip/guac
 	name = "guac dip"
-	desc = "A recreation of the ancient Sol 'Guacamole' dip using tofu, limes, and spices. This recreation obviously leaves out mole meat."
+	desc = "A recreation of the ancient Ohio 'Guacamole' dip using tofu, limes, and spices. This recreation obviously leaves out mole meat."
 	nachotrans = /obj/item/reagent_containers/food/snacks/chip/nacho/guac
 	chiptrans = /obj/item/reagent_containers/food/snacks/chip/guac
 	icon_state = "dip_guac"

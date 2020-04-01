@@ -59,7 +59,7 @@
 	leaves["S'th Kasavakh tobacco leaves"] = /obj/item/storage/chewables/rollable/bad
 	leaves["Agyre Lake tobacco leaves"] = /obj/item/storage/chewables/rollable
 	leaves["Excelsior Epsilon tobacco leaves"] = /obj/item/storage/chewables/rollable/fine
-	leaves["Golden Sol tobacco leaves"] = /obj/item/storage/chewables/rollable/nico
+	leaves["Golden Ohio tobacco leaves"] = /obj/item/storage/chewables/rollable/nico
 	gear_tweaks += new/datum/gear_tweak/path(leaves)
 
 /datum/gear/smoking/pipe

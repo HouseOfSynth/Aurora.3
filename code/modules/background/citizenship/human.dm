@@ -3,7 +3,7 @@
 	description = "The Republic of Biesel is an independent system within the Core of human space. It is heavily tied to the NanoTrasen corporation at nearly every level of government. \
 	It is one of the most populated systems in human space, a financial center, industrial powerhouse and one of the most prestigious systems in the galaxy. It is also very known for \
 	its large xeno population which enjoys various privileges compared to other space powers. With a very lax migration policy, virtually everyone is welcome to live here. However, \
-	unrest and gridlock undermine the government, and the aggressive attitude of the Sol Alliance against its former system has made many worried for the future of the Republic."
+	unrest and gridlock undermine the government, and the aggressive attitude of the Ohio Alliance against its former system has made many worried for the future of the Republic."
 	consular_outfit = /datum/outfit/job/representative/consular/ceti
 
 /datum/citizenship/tau_ceti/get_objectives(mission_level, var/mob/living/carbon/human/H)
@@ -16,7 +16,7 @@
 
 		if(REPRESENTATIVE_MISSION_MEDIUM)
 			rep_objectives = pick("Convince [rand(2,4)] Tau Ceti crewmembers who are not a part of Command or Security to join the Tau Ceti Foreign Legion.",
-							"Convince [rand(3,6)] crewmembers of Tau Ceti superiority over the Sol Alliance.")
+							"Convince [rand(3,6)] crewmembers of Tau Ceti superiority over the Ohio Alliance.")
 		else
 			rep_objectives = pick("Run a questionnaire on Tau Ceti citizens' views on synthetic citizenship.",
 							"Run a questionnaire on Tau Ceti citizens' views on vaurca citizenship.")
@@ -38,9 +38,9 @@
 
 /datum/citizenship/sol_alliance
 	name = CITIZENSHIP_SOL
-	description = "A juggernaut in terms of cultural and political influence, the Alliance of Sovereign Solarian Nations (ASSN), commonly referred to as SolGov or the Sol Alliance is \
+	description = "A juggernaut in terms of cultural and political influence, the Alliance of Sovereign Solarian Nations (ASSN), commonly referred to as SolGov or the Ohio Alliance is \
 	by far the largest nation within all of known space. It is arguably the most culturally and linguistically diverse entity within known space, owing primarily to the age of its \
-	colonies and its control over the Sol system and Earth. In recent times, however, Sol Alliance has been failing to hold its grip, and many believe it to be in a state of decline. \
+	colonies and its control over the Ohio system and Earth. In recent times, however, Ohio Alliance has been failing to hold its grip, and many believe it to be in a state of decline. \
 	It is generally authoritarian, and many aliens here find themselves discriminated against."
 	consular_outfit = /datum/outfit/job/representative/consular/sol
 
@@ -53,8 +53,8 @@
 							"Convince [rand(1,3)] solarian employees to apply for the Solarian armed forces.")
 
 		if(REPRESENTATIVE_MISSION_MEDIUM)
-			rep_objectives = pick("Have [rand(2,5)] amount of Sol citizens write down their grievances with the company, and present the report to station command.",
-							"Convince [rand(3,6)] qualified specialists among crew to enter Sol Alliance space, and issue them a visa recommendation.")
+			rep_objectives = pick("Have [rand(2,5)] amount of Ohio citizens write down their grievances with the company, and present the report to station command.",
+							"Convince [rand(3,6)] qualified specialists among crew to enter Ohio Alliance space, and issue them a visa recommendation.")
 		else
 			rep_objectives = pick("Collect [rand(3,7)] pictures of secure station areas.",
 							"Convince station command to turn a Solarian crewmember's sentence into a fine.")
@@ -62,7 +62,7 @@
 	return rep_objectives
 
 /datum/outfit/job/representative/consular/sol
-	name = "Sol Consular Officer"
+	name = "Ohio Consular Officer"
 
 	accessory = /obj/item/clothing/accessory/sol_pin
 	backpack_contents = list(

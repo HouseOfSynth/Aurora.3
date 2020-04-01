@@ -173,6 +173,7 @@
 
 //this proc handles being hit by a thrown atom
 /mob/living/hitby(atom/movable/AM as mob|obj,var/speed = THROWFORCE_SPEED_DIVISOR)//Standardization and logging -Sieve
+	playsound(src, 'sound/effects/oof.ogg', 50, vary = FALSE)
 	if(istype(AM,/obj/))
 		var/obj/O = AM
 		var/dtype = O.damtype

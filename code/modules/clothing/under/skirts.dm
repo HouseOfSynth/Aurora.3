@@ -83,7 +83,7 @@
 
 /obj/item/clothing/under/skirt/blackjumpskirt
 	name = "black jumpskirt"
-	desc = "A black jumpskirt, Sol size 0."
+	desc = "A black jumpskirt, Ohio size 0."
 	icon_state = "blackjumpskirt"
 	item_state = "bl_suit"
 	worn_state = "blackjumpskirt"

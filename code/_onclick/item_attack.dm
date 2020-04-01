@@ -103,6 +103,8 @@ avoid code duplication. This includes items that may sometimes act as a standard
 	if(hitsound)
 		playsound(loc, hitsound, 50, 1, -1)
 
+	playsound(loc, 'sound/effects/oof.ogg', 50, vary = FALSE)
+
 	var/power = force
 	if(HULK in user.mutations)
 		power *= 2

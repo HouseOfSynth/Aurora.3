@@ -829,8 +829,8 @@ All custom items with worn sprites must follow the contained sprite system: http
 	var/investigator = "Avery Bell"
 	var/occupation = "Consulting Detective"
 	var/birth_year = "8/8/2426"
-	var/licensed_systems = "Republic of Biesel, Sol Alliance, Nralakk"
-	var/supplementary_endorsements = "Licensed Medical Examiner; Sol Alliance, Republic of Biesel - Concealed firearm carry; Sol Alliance, Republic of Biesel"
+	var/licensed_systems = "Republic of Biesel, Ohio Alliance, Nralakk"
+	var/supplementary_endorsements = "Licensed Medical Examiner; Ohio Alliance, Republic of Biesel - Concealed firearm carry; Ohio Alliance, Republic of Biesel"
 	var/citizenship = "Republic of Biesel"
 
 /obj/item/clothing/accessory/badge/fluff/bell_badge/verb/read()
@@ -1155,16 +1155,16 @@ All custom items with worn sprites must follow the contained sprite system: http
 	contained_sprite = TRUE
 
 
-/obj/item/stamp/fluff/leland_stamp //Sol Alliance Government Foreign Relations Department Stamp - Leland Field - saudus
-	name = "\improper Sol Alliance foreign relations department stamp"
-	desc = "A stamp with the emblem of the Sol Alliance Foreign Relations Department. The text \"Diplomatic Observer, L. Field\" is inscribed on the handle."
+/obj/item/stamp/fluff/leland_stamp //Ohio Alliance Government Foreign Relations Department Stamp - Leland Field - saudus
+	name = "\improper Ohio Alliance foreign relations department stamp"
+	desc = "A stamp with the emblem of the Ohio Alliance Foreign Relations Department. The text \"Diplomatic Observer, L. Field\" is inscribed on the handle."
 	icon = 'icons/obj/custom_items/leland_items.dmi'
 	icon_state = "leland_stamp"
 	item_state = "leland_stamp"
 
-/obj/item/clothing/accessory/badge/fluff/leland_badge //Sol Alliance Government Foreign Relations Department Badge - Leland Field - saudus
-	name = "\improper Sol Alliance foreign relations department badge"
-	desc = "A badge bearing the emblem of the Sol Alliance Foreign Relations Department. It has an inscription reading \"Leland Field, Diplomatic Observer\"."
+/obj/item/clothing/accessory/badge/fluff/leland_badge //Ohio Alliance Government Foreign Relations Department Badge - Leland Field - saudus
+	name = "\improper Ohio Alliance foreign relations department badge"
+	desc = "A badge bearing the emblem of the Ohio Alliance Foreign Relations Department. It has an inscription reading \"Leland Field, Diplomatic Observer\"."
 	icon = 'icons/obj/custom_items/leland_items.dmi'
 	icon_state = "leland_badge"
 	stored_name = "Leland Field"
@@ -1570,9 +1570,9 @@ All custom items with worn sprites must follow the contained sprite system: http
 	contained_sprite = TRUE
 
 
-/obj/item/clothing/head/beret/fluff/chunley_beret //Sol's Dog Handler Beret - Freya Chunley - thesmiley
-	name = "sol's dog handler beret"
-	desc = "A scarlet military beret worn by the Sol Alliance Military Police dog handling unit. The symbol on the cap is that of a grey wolf's head on white. It quivers menacingly. \
+/obj/item/clothing/head/beret/fluff/chunley_beret //Ohio's Dog Handler Beret - Freya Chunley - thesmiley
+	name = "ohio's dog handler beret"
+	desc = "A scarlet military beret worn by the Ohio Alliance Military Police dog handling unit. The symbol on the cap is that of a grey wolf's head on white. It quivers menacingly. \
 	Upon flipping it you see a name tag with the word \"CHUNLEY\" written in on it with a very sloppy hand write."
 	icon = 'icons/obj/custom_items/chunley_beret.dmi'
 	icon_state = "chunley_beret"
@@ -1670,7 +1670,7 @@ All custom items with worn sprites must follow the contained sprite system: http
 			a more high end one, with the two of them seated opposite of each other, posing for a picture. Annabelle especially looks incredibly happy."
 
 		if("18-06-2437")
-			desc = "This image shows a group of five posing together for a picture, the surrounding indicates this as a place of military decorum, people dressed in Sol Navy dress uniforms and people in civilian clothing spread around in groups, indicating some form of graduation ceremony. \
+			desc = "This image shows a group of five posing together for a picture, the surrounding indicates this as a place of military decorum, people dressed in Ohio Navy dress uniforms and people in civilian clothing spread around in groups, indicating some form of graduation ceremony. \
 			Raymond is in his mid twenties, dressed in full dress uniform standing with four others. One you might know as Stephanie Hawkins, dressed in the same way, looking to be in her mid twenties as well. A boy in his early teens is also standing, \
 			which you may know as Robert Hawkins, his brother. The last two are Jack Hawkins and Martha Hawkins, both looking to be in their early fifties, his parents."
 
@@ -3294,7 +3294,7 @@ All custom items with worn sprites must follow the contained sprite system: http
 /obj/item/fluff/cress_book //Lyric Book - Emily Cress - mattatlas
 	name = "lyric book"
 	desc = "An old, faded folder containing various alphabetically organized lyrics of several songs, including musical sheets for guitars. A dark purple H is scribbled on the center, along with half a heart on the \
-	left and a cut on the bottom right. The lyrics inside have two copies each: one in Sol Common and one in Tau Ceti Basic. It generally looks to be hard rock."
+	left and a cut on the bottom right. The lyrics inside have two copies each: one in Ohio Common and one in Tau Ceti Basic. It generally looks to be hard rock."
 	icon = 'icons/obj/custom_items/cress_items.dmi'
 	icon_state = "cress_book"
 	w_class = 2

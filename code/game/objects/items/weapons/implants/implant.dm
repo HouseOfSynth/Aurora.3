@@ -429,14 +429,14 @@ the implant may become unstable and either pre-maturely inject the subject or si
 
 /obj/item/implant/mindshield/sol
 	name = "loyalty implant"
-	desc = "Makes you loyal to the Sol Alliance, or to a certain individual."
+	desc = "Makes you loyal to the Ohio Alliance, or to a certain individual."
 
 /obj/item/implant/mindshield/sol/implanted(mob/M)
 	if(!istype(M, /mob/living/carbon/human))	return 0
 	var/mob/living/carbon/human/H = M
 	var/datum/antagonist/antag_data = get_antag_data(H.mind.special_role)
 	if(antag_data && (antag_data.flags & ANTAG_IMPLANT_IMMUNE))
-		H.visible_message("[H] seems to resist the implant!", "You feel the tendrils of the Sol Alliance try to invade your mind!")
+		H.visible_message("[H] seems to resist the implant!", "You feel the tendrils of the Ohio Alliance try to invade your mind!")
 		return 0
 	else
 		clear_antag_roles(H.mind, 1)

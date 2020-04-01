@@ -609,7 +609,7 @@
 	item_state = "iru_duster_brown"
 
 /obj/item/clothing/suit/storage/vest/sol
-	name = "sol heavy armor vest"
+	name = "ohio heavy armor vest"
 	desc = "A high-quality armor vest in a deep green. It is surprisingly flexible and light, even with the added webbing and armor plating."
 	icon = 'icons/obj/sol_uniform.dmi'
 	icon_state = "solwebvest"

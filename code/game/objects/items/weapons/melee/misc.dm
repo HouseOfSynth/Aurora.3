@@ -162,8 +162,8 @@
 		return
 
 /obj/item/melee/ceremonial_sword
-	name = "sol officer ceremonial sword"
-	desc = "A ceremonial sword issued to Sol navy officers as part of their dress uniform."
+	name = "ohio officer ceremonial sword"
+	desc = "A ceremonial sword issued to Ohio navy officers as part of their dress uniform."
 	icon = 'icons/obj/sol_uniform.dmi'
 	icon_state = "officersword"
 	item_state = "officersword"
@@ -181,8 +181,8 @@
 	hitsound = 'sound/weapons/bladeslice.ogg'
 
 /obj/item/melee/ceremonial_sword/marine
-	name = "sol marine ceremonial sword"
-	desc = "A ceremonial sword issued to Sol marine officers as part of their dress uniform."
+	name = "ohio marine ceremonial sword"
+	desc = "A ceremonial sword issued to Ohio marine officers as part of their dress uniform."
 	icon = 'icons/obj/sol_uniform.dmi'
 	icon_state = "marineofficersword"
 	item_state = "marineofficersword"

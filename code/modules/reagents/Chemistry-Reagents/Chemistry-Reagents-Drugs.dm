@@ -152,7 +152,7 @@
 /datum/reagent/raskara_dust
 	name = "Raskara Dust"
 	id = "raskara_dust"
-	description = "A powdery narcotic found in the gang-ridden slums of Biesel and Sol. Known for it's relaxing poperties that cause trance-like states when inhaled. Casual users tend to snort or inhale, while hardcore users inject."
+	description = "A powdery narcotic found in the gang-ridden slums of Biesel and Ohio. Known for it's relaxing poperties that cause trance-like states when inhaled. Casual users tend to snort or inhale, while hardcore users inject."
 	reagent_state = SOLID
 	color = "#AABBAA"
 	overdose = REAGENTS_OVERDOSE

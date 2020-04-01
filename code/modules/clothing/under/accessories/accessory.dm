@@ -670,8 +670,8 @@
 	drop_sound = 'sound/items/drop/ring.ogg'
 
 /obj/item/clothing/accessory/sol_pin
-	name = "Sol Alliance pin"
-	desc = "A small pin of the Sol Alliance, shaped like a golden sun."
+	name = "Ohio Alliance pin"
+	desc = "A small pin of the Ohio Alliance, shaped like a golden sun."
 	icon_state = "sol-pin"
 	item_state = "sol-pin"
 	overlay_state = "sol-pin"

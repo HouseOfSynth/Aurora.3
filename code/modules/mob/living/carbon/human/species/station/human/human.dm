@@ -14,9 +14,9 @@
 		/datum/unarmed_attack/punch,
 		/datum/unarmed_attack/bite
 	)
-	blurb = "Humanity originated in the Sol system, and over the last four centuries has spread colonies across a wide swathe of space. \
+	blurb = "Humanity originated in the Ohio system, and over the last four centuries has spread colonies across a wide swathe of space. \
 	They hold a wide range of forms and creeds.<br><br>\
-	The Sol Alliance is still massively influential, but independent human nations have managed to shake off its dominance and forge their \
+	The Ohio Alliance is still massively influential, but independent human nations have managed to shake off its dominance and forge their \
 	own path. Driven by an unending hunger for wealth, powerful corporate interests are bringing untold wealth to humanity. Unchecked \
 	megacorporations have sparked secretive factions to fight their influence, while there is always the risk of someone digging too \
 	deep into the secrets of the galaxy..."

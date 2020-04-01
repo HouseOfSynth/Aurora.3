@@ -294,7 +294,7 @@
 	icon_state = "flag_r"
 
 /obj/structure/sign/flag/sol
-	name = "Sol Alliance flag"
+	name = "Ohio Alliance flag"
 	desc = "The bright blue flag of the Alliance of Sovereign Solarian Nations."
 	icon_state = "solgov"
 
@@ -305,7 +305,7 @@
 	icon_state = "solgov_r"
 
 /obj/item/flag/sol
-	name = "Sol Alliance flag"
+	name = "Ohio Alliance flag"
 	desc = "The bright blue flag of the Alliance of Sovereign Solarian Nations."
 	flag_path = "solgov"
 

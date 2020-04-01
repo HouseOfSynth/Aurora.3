@@ -68,7 +68,7 @@
 
 /mob/living/simple_animal/hostile/retaliate/minedrone
 	name = "mining rover"
-	desc = "A dilapidated mining rover, with the faded colors of the Sol Alliance. It looks more than a little lost."
+	desc = "A dilapidated mining rover, with the faded colors of the Ohio Alliance. It looks more than a little lost."
 	icon = 'icons/mob/npc/cavern.dmi'
 	icon_state = "sadrone"
 	icon_living = "sadrone"

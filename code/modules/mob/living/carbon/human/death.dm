@@ -66,7 +66,7 @@
 	if(!gibbed)
 		handle_organs()
 		if(species.death_sound)
-			playsound(loc, species.death_sound, 80, 1, 1)
+			playsound(loc, species.death_sound, 80, FALSE, TRUE)
 
 	if(SSticker.mode)
 		sql_report_death(src)

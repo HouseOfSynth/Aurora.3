@@ -7,7 +7,7 @@
 	during the Second Great Depression in the late 23rd century. Receiving bailouts
 	from SolGov and securing several crucial production contracts, they have slowly
 	worked their way to become the dominant manufacturing mega-corporation in the
-	Sol Alliance, pioneering interstellar logistics and construction on an awe-inspiring scale.
+	Ohio Alliance, pioneering interstellar logistics and construction on an awe-inspiring scale.
 	</p>
 	<p>Some character examples are:
 	<ul>

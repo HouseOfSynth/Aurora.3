@@ -1,7 +1,7 @@
 
 /obj/structure/closet/sol
-	name = "sol navy uniform closet"
-	desc = "It's a storage unit for Sol Alliance navy uniforms."
+	name = "ohio navy uniform closet"
+	desc = "It's a storage unit for Ohio Alliance navy uniforms."
 	icon_state = "syndicate1"
 	icon_closed = "syndicate1"
 	icon_opened = "syndicate1open"
@@ -22,8 +22,8 @@
 	new /obj/item/clothing/shoes/jackboots(src)
 
 /obj/structure/closet/sol/marine
-	name = "sol marines uniform closet"
-	desc = "It's a storage unit for Sol Alliance marine uniforms."
+	name = "ohio marines uniform closet"
+	desc = "It's a storage unit for Ohio Alliance marine uniforms."
 
 /obj/structure/closet/sol/marine/fill()
 	..()
@@ -41,8 +41,8 @@
 	new /obj/item/clothing/shoes/jackboots(src)
 
 /obj/structure/closet/sol/navy_dress
-	name = "sol navy dress uniform closet"
-	desc = "It's a storage unit for Sol Alliance navy dress uniforms."
+	name = "ohio navy dress uniform closet"
+	desc = "It's a storage unit for Ohio Alliance navy dress uniforms."
 
 /obj/structure/closet/sol/navy_dress/fill()
 	..()
@@ -60,8 +60,8 @@
 	new /obj/item/clothing/gloves/white(src)
 
 /obj/structure/closet/sol/marine_dress
-	name = "sol marine dress uniform closet"
-	desc = "It's a storage unit for Sol Alliance marine dress uniforms."
+	name = "ohio marine dress uniform closet"
+	desc = "It's a storage unit for Ohio Alliance marine dress uniforms."
 
 /obj/structure/closet/sol/marine_dress/fill()
 	..()
@@ -79,7 +79,7 @@
 	new /obj/item/clothing/gloves/white(src)
 
 /obj/structure/closet/secure_closet/soll_officer
-	name = "sol alliance officer locker"
+	name = "ohio alliance officer locker"
 	req_access = list(access_captain)
 	icon_state = "capsecure1"
 	icon_closed = "capsecure"

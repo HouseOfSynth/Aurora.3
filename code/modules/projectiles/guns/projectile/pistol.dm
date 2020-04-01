@@ -365,7 +365,7 @@
 
 /obj/item/gun/projectile/pistol/sol
 	name = "service pistol"
-	desc = "A very old service pistol. Branded at the grip with the old emblem of the Sol Alliance, hand-made by Necropolis."
+	desc = "A very old service pistol. Branded at the grip with the old emblem of the Ohio Alliance, hand-made by Necropolis."
 	icon = 'icons/obj/guns/m8.dmi'
 	icon_state = "m8"
 	item_state = "m8"

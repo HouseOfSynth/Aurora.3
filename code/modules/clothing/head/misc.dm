@@ -625,8 +625,8 @@
 	sprite_sheets = list("Vaurca Breeder" = 'icons/mob/species/breeder/head.dmi')
 
 /obj/item/clothing/head/navy
-	name = "sol navy utility cover"
-	desc = "An eight pointed cover issued to Sol Alliance navy members as part of their field uniform."
+	name = "ohio navy utility cover"
+	desc = "An eight pointed cover issued to Ohio Alliance navy members as part of their field uniform."
 	icon = 'icons/obj/sol_uniform.dmi'
 	icon_state = "greyutility"
 	item_state = "greyutility"
@@ -634,55 +634,55 @@
 	armor = list(melee = 10, bullet = 10, laser = 10,energy = 0, bomb = 0, bio = 0, rad = 0)
 
 /obj/item/clothing/head/navy/marine
-	name = "sol marine utility cover"
-	desc = "An eight pointed cover issued to Sol Alliance marines as part of their field uniform."
+	name = "ohio marine utility cover"
+	desc = "An eight pointed cover issued to Ohio Alliance marines as part of their field uniform."
 	icon = 'icons/obj/sol_uniform.dmi'
 	icon_state = "greenutility"
 	item_state = "greenutility"
 	contained_sprite = 1
 
 /obj/item/clothing/head/navy/garrison
-	name = "sol marine garrison cap"
-	desc = "A green garrison cap issued to Sol Alliance marines."
+	name = "ohio marine garrison cap"
+	desc = "A green garrison cap issued to Ohio Alliance marines."
 	icon = 'icons/obj/sol_uniform.dmi'
 	icon_state = "greengarrisoncap"
 	item_state = "greengarrisoncap"
 	contained_sprite = 1
 
 /obj/item/clothing/head/dress
-	name = "sol navy dress cap"
-	desc = "A white cap issued as part of the Sol Alliance navy dress uniform."
+	name = "ohio navy dress cap"
+	desc = "A white cap issued as part of the Ohio Alliance navy dress uniform."
 	icon = 'icons/obj/sol_uniform.dmi'
 	icon_state = "whitepeakcap"
 	item_state = "whitepeakcap"
 	contained_sprite = 1
 
 /obj/item/clothing/head/dress/marine
-	name = "sol marine dress cap"
-	desc = "A green cap issued as part of the Sol Alliance marine dress uniform."
+	name = "ohio marine dress cap"
+	desc = "A green cap issued as part of the Ohio Alliance marine dress uniform."
 	icon = 'icons/obj/sol_uniform.dmi'
 	icon_state = "whitepeakcap"
 	item_state = "whitepeakcap"
 	contained_sprite = 1
 
 /obj/item/clothing/head/dress/officer
-	name = "sol navy officer dress cap"
-	desc = "A white cap issued as part of the Sol Alliance navy officers dress uniform."
+	name = "ohio navy officer dress cap"
+	desc = "A white cap issued as part of the Ohio Alliance navy officers dress uniform."
 	icon = 'icons/obj/sol_uniform.dmi'
 	icon_state = "whitewheelcap"
 	item_state = "whitewheelcap"
 	contained_sprite = 1
 
 /obj/item/clothing/head/dress/admiral
-	name = "sol navy admiral dress cap"
-	desc = "A fancy looking cap issued to a higher member of the Sol Alliance navy."
+	name = "ohio navy admiral dress cap"
+	desc = "A fancy looking cap issued to a higher member of the Ohio Alliance navy."
 	icon = 'icons/obj/sol_uniform.dmi'
 	icon_state = "admiral_cap"
 	item_state = "admiral_cap"
 	contained_sprite = 1
 
 /obj/item/clothing/head/helmet/sol
-	name = "sol combat helmet"
+	name = "ohio combat helmet"
 	desc = "A woodland colored helmet made from advanced ceramic."
 	icon = 'icons/obj/sol_uniform.dmi'
 	icon_state = "helmet_tac_sol"

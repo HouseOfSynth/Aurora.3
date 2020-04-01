@@ -35,7 +35,7 @@
 		outfit = /datum/outfit/admin/pod/priest
 		possible_species = list("Human")
 	else if(t == "rep")
-		welcome_message = "You are a stranded Idris Incorporated representative!<br>You were traveling back from your business in Sol to the Mendell City HQ. Unfortunately, after a very unusual set of circumstances, the engine broke down just almost as you got back. You're stranded somewhere nearby - perhaps your excellent customer service and negotiation skills might get you a ride back to Mendell?"
+		welcome_message = "You are a stranded Idris Incorporated representative!<br>You were traveling back from your business in Ohio to the Mendell City HQ. Unfortunately, after a very unusual set of circumstances, the engine broke down just almost as you got back. You're stranded somewhere nearby - perhaps your excellent customer service and negotiation skills might get you a ride back to Mendell?"
 		outfit = /datum/outfit/admin/pod/rep
 		possible_species = list("Human")
 	else if(t == "hunter")

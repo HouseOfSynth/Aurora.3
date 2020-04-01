@@ -764,8 +764,8 @@
 				/obj/item/clothing/accessory/badge/holo/cord = 2)
 
 /obj/item/storage/box/sol_visa
-	name = "Sol Alliance visa recommendations box"
-	desc = "A box full of Sol Aliance visa recommendation slips."
+	name = "Ohio Alliance visa recommendations box"
+	desc = "A box full of Ohio Aliance visa recommendation slips."
 	starts_with = list(/obj/item/clothing/accessory/badge/sol_visa = 6)
 
 /obj/item/storage/box/ceti_visa

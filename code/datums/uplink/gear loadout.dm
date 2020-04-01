@@ -39,11 +39,11 @@
 	item_cost = DEFAULT_TELECRYSTAL_AMOUNT
 
 /datum/uplink_item/item/gear_loadout/sol
-	name = "Sol Alliance Assets (Group)"
+	name = "Ohio Alliance Assets (Group)"
 	path = /obj/structure/closet/crate/secure/gear_loadout/sol
 
 /datum/uplink_item/item/gear_loadout/sol_single
-	name = "Sol Alliance Assets (Single)"
+	name = "Ohio Alliance Assets (Single)"
 	path = /obj/structure/closet/crate/secure/gear_loadout/sol_single
 	item_cost = DEFAULT_TELECRYSTAL_AMOUNT
 

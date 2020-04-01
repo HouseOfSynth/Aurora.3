@@ -229,6 +229,8 @@
 	else
 		hud = new()
 
+	death_sound = 'sound/effects/yoda.ogg'
+
 	//If the species has eyes, they are the default vision organ
 	if(!vision_organ && has_organ[BP_EYES])
 		vision_organ = BP_EYES

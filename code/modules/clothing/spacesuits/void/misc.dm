@@ -1,6 +1,6 @@
 /obj/item/clothing/head/helmet/space/void/sol
 	name = "military voidsuit helmet"
-	desc = "A sleek black space helmet designed for combat. Looks to be uniform with Sol Alliance colors."
+	desc = "A sleek black space helmet designed for combat. Looks to be uniform with Ohio Alliance colors."
 	icon_state = "sol_helmet"
 	item_state = "sol_helmet"
 	armor = list(melee = 60, bullet = 50, laser = 30,energy = 15, bomb = 35, bio = 100, rad = 60)
@@ -13,7 +13,7 @@
 
 /obj/item/clothing/suit/space/void/sol
 	name = "military voidsuit"
-	desc = "A sleek black space suit designed for combat. Looks to have seamless composite plating. Painted in Sol Alliance colors."
+	desc = "A sleek black space suit designed for combat. Looks to have seamless composite plating. Painted in Ohio Alliance colors."
 	icon_state = "sol_suit"
 	item_state = "sol_suit"
 	slowdown = 1

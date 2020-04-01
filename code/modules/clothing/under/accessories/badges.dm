@@ -169,7 +169,7 @@
 
 /obj/item/clothing/accessory/badge/sol_visa
 	name = "\improper ASSN visa recommendation slip"
-	desc = "A compact piece of legal paperwork that can replace the enormous amounts of documents required to obtain a Sol Alliance visa."
+	desc = "A compact piece of legal paperwork that can replace the enormous amounts of documents required to obtain a Ohio Alliance visa."
 	icon_state = "sol-visa"
 	overlay_state = "sol-visa"
 	slot_flags = SLOT_TIE

@@ -147,7 +147,7 @@
 
 /obj/item/storage/fancy/chewables/tobacco/nico
 	name = "box of Nico-Tine gum"
-	desc = "A Sol-approved brand of nicotine gum. Cut out the middleman for your addiction fix."
+	desc = "An Ohio-approved brand of nicotine gum. Cut out the middleman for your addiction fix."
 	icon = 'icons/obj/cigs_lighters.dmi'
 	icon_state = "chew_nico"
 	item_state = "Epacket"
@@ -194,8 +194,8 @@
 	item_state = "Dpacket"
 
 /obj/item/storage/chewables/rollable/nico
-	name = "box of Golden Sol tobacco leaves"
-	desc = "A exclusive brand of overpriced tobacco, allegedly grown at a lagrange point station in Sol system."
+	name = "box of Golden Ohio tobacco leaves"
+	desc = "A exclusive brand of overpriced tobacco, allegedly grown at a lagrange point station in Ohio system."
 	starts_with = list(/obj/item/reagent_containers/food/snacks/grown/dried_tobacco/pure = 8)
 	icon_state = "roll_nico"
 	item_state = "Epacket"

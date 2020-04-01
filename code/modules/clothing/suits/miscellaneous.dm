@@ -502,7 +502,7 @@
 
 /obj/item/clothing/suit/storage/toggle/varsity
 	name = "black varsity jacket"
-	desc = "A favorite of jocks everywhere from Sol to the Coalition."
+	desc = "A favorite of jocks everywhere from Ohio to the Coalition."
 	icon_state = "varsity"
 	item_state = "varsity"
 	icon_open = "varsity_open"

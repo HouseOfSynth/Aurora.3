@@ -107,7 +107,7 @@
 
 /obj/item/gun/projectile/shotgun/pump/combat/sol
 	name = "naval shotgun"
-	desc = "A Malella-type 12-gauge breaching shotgun commonly found in the hands of the Sol Alliance. Made by Necropolis Industries."
+	desc = "A Malella-type 12-gauge breaching shotgun commonly found in the hands of the Ohio Alliance. Made by Necropolis Industries."
 	icon = 'icons/obj/guns/malella.dmi'
 	icon_state = "malella"
 	item_state = "malella"
